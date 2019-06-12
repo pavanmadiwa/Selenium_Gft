@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2019-05-29T03:17:49Z" finished-at="2019-05-29T03:17:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2019-05-29T03:17:49Z" finished-at="2019-05-29T03:17:49Z">
+      <class name="TestNGdemo.demodat">
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestNGdemo.demodat@5dfcfece]" name="testLogin" duration-ms="15" started-at="2019-05-29T03:17:49Z" data-provider="loginData" finished-at="2019-05-29T03:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pas12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestNGdemo.demodat@5dfcfece]" name="testLogin" duration-ms="0" started-at="2019-05-29T03:17:49Z" data-provider="loginData" finished-at="2019-05-29T03:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavlm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pas1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:TestNGdemo.demodat@5dfcfece]" name="testLogin" duration-ms="0" started-at="2019-05-29T03:17:49Z" data-provider="loginData" finished-at="2019-05-29T03:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pkum]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pas123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- TestNGdemo.demodat -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
